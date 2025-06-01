@@ -1,0 +1,71 @@
+AWS free tier - ready 
+
+evolution of cloud?
+=========================
+
+1940's - distributed systems -> 
+
+1950's - mainframe computing -> COBOL -> irctc -> IBM -> cts --------> highly expensive
+
+1960's - cluster computing -> 
+
+1970's - Grid computing -> wired n/w -> 
+
+1990's 
+
+2000's www - famous
+
+fb - build -> virtualization -> server
+
+2004- 20005 -> Data -> AWS 
+
+2008 ->global recession
+
+2014- 2015 - firewall, security, permission  -> 1%
+
+2020 - 2025 -> onpremis to cloud migrate
+
+cloud:
+---------
+pay for what you use in a rental system with the help of internet
+
+
+on-premis
+-----------
+abc company 
+physical office ->
+securities
+server -> engineer
+centralised ac - technicians
+project rooms
+laptops
+wifi
+hire
+payroll
+
+Types of service models
+-----------
+Iaas - Infrastructure as a cloud
+Paas - Platform as a cloud
+Saas - Software as a cloud
+
+Types of cloud models
+-------------------
+
+public cloud -> everyone
+private cloud -> vpc -> particular -> 
+hybrid cloud -> 
+community cloud -> quora, stackoverflow
+
+architect:
+-------------
+
+N/w engineering - vpc
+server * - ec2
+storage * - s3
+Security * - iam
+Database * - rds
+Application * - lambda 
+
+
+

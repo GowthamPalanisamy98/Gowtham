@@ -1,0 +1,13 @@
+148  cd /D/Cyberdefense\ academy/amazon/
+  149  ls
+  150  ls
+  151  git init
+  152  git remote add origin https://github.com/trainerforaws/cyber.git
+  153  git status
+  154  git add .
+  155  git status
+  156  git commit -m "new file"
+  157  git push
+  158  git push --set-upstream origin master
+  159  history
+git clone https://github.com/trainerforaws/cyber.git
